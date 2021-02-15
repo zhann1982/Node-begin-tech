@@ -1,0 +1,23 @@
+{
+  "name": "node-begin-tech",
+  "version": "0.1.0",
+  "description": "node features",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhann1982/Node-begin-tech.git"
+  },
+  "keywords": [
+    "node",
+    "events"
+  ],
+  "author": "@Zhann1982",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhann1982/Node-begin-tech/issues"
+  },
+  "homepage": "https://github.com/zhann1982/Node-begin-tech#readme"
+}
