@@ -4,7 +4,8 @@
   "description": "node features",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/zhann1982/Node-begin-tech/issues"
   },
-  "homepage": "https://github.com/zhann1982/Node-begin-tech#readme"
+  "homepage": "https://github.com/zhann1982/Node-begin-tech#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "superagent": "^6.1.0"
+  }
 }
